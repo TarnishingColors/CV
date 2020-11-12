@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7895cbe9-4638-4968-bf1b-7ef5083c7c50" name="Default Changelist" comment="" />
+    <list default="true" id="7895cbe9-4638-4968-bf1b-7ef5083c7c50" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1kBU59YJpjlElLWrwosWJyhnTEm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -27,10 +33,21 @@
       <option name="presentableId" value="Default" />
       <updated>1605173292930</updated>
       <workItem from="1605173293967" duration="554000" />
+      <workItem from="1605174326703" duration="521000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="520" y="238" key="Github.ShareDialog" timestamp="1605174340675">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="520" y="238" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1605174340675" />
+    <state x="458" y="45" key="Github.UntrackedFilesDialog" timestamp="1605174346905">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="458" y="45" key="Github.UntrackedFilesDialog/0.0.1280.680@0.0.1280.680" timestamp="1605174346905" />
   </component>
 </project>
