@@ -19,11 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7895cbe9-4638-4968-bf1b-7ef5083c7c50" name="Default Changelist" comment="moving index.html">
-      <change afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+    <list default="true" id="7895cbe9-4638-4968-bf1b-7ef5083c7c50" name="Default Changelist" comment="added style to font and background">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/bio.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/bio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/certification.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/certification.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/contacts.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -71,7 +69,7 @@
       <updated>1605173292930</updated>
       <workItem from="1605173293967" duration="554000" />
       <workItem from="1605174326703" duration="852000" />
-      <workItem from="1605175338652" duration="3559000" />
+      <workItem from="1605175338652" duration="4966000" />
     </task>
     <task id="LOCAL-00001" summary="moving index.html">
       <created>1605174872385</created>
@@ -87,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605176365899</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added style to font and background">
+      <created>1605193934714</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605193934715</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,7 +111,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="moving index.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="moving index.html" />
+    <MESSAGE value="added style to font and background" />
+    <option name="LAST_COMMIT_MESSAGE" value="added style to font and background" />
   </component>
   <component name="WindowStateProjectService">
     <state x="520" y="238" key="Github.ShareDialog" timestamp="1605175356069">
@@ -117,9 +123,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="458" y="45" key="Github.UntrackedFilesDialog/0.0.1280.680@0.0.1280.680" timestamp="1605174346905" />
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1605176371968">
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1605193966096">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1605176371968" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1605193966096" />
   </component>
 </project>
