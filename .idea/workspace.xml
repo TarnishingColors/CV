@@ -20,12 +20,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7895cbe9-4638-4968-bf1b-7ef5083c7c50" name="Default Changelist" comment="moving index.html">
+      <change afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/bio.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/bio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/certification.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/certification.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/contacts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,10 +52,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\WebstormProjects\myCV" />
       <recent name="C:\Users\HP\WebstormProjects\myCV\html" />
     </key>
   </component>
@@ -57,7 +71,7 @@
       <updated>1605173292930</updated>
       <workItem from="1605173293967" duration="554000" />
       <workItem from="1605174326703" duration="852000" />
-      <workItem from="1605175338652" duration="628000" />
+      <workItem from="1605175338652" duration="3559000" />
     </task>
     <task id="LOCAL-00001" summary="moving index.html">
       <created>1605174872385</created>
@@ -66,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605174872385</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="moving index.html">
+      <created>1605176365899</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605176365899</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,9 +117,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="458" y="45" key="Github.UntrackedFilesDialog/0.0.1280.680@0.0.1280.680" timestamp="1605174346905" />
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1605174908338">
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1605176371968">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1605174908338" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1605176371968" />
   </component>
 </project>

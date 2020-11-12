@@ -1,0 +1,26 @@
+hr {
+    border-style: dotted none none;
+    width: 10%;
+    border-width: 5px;
+    border-color: darkgrey;
+}
+
+body {
+    background: #f0eec9;
+}
+
+.header {
+    color: #4ba2ac;
+}
+
+.info {
+    color: #50c9ba;
+}
+
+.my_photo {
+    width: auto;
+    text-align: center;
+    padding: 15px;
+    height: 200px;
+    width: 200px;
+}
