@@ -15,7 +15,7 @@ body {
 }
 
 .site_head {
-    #background: #4ba2ac;
+    background: #4ba2ac;
     display: flex;
     flex-flow: row;
     height: 50px;
@@ -32,10 +32,19 @@ body {
 
 .info {
     color: #50c9ba;
+    margin-top: 0px;
+}
+
+.content_field {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
 }
 
 .link {
-    color: #4ba2ac;
+    color: #f0eec9;
 }
 
 .button {
@@ -51,4 +60,11 @@ body {
     padding: 15px;
     height: 200px;
     width: 200px;
+}
+
+.my_info {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
 }
