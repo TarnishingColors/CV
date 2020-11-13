@@ -7,6 +7,23 @@ hr {
 
 body {
     background: #f0eec9;
+    margin: 0px;
+}
+
+.content {
+    padding-top: 60px;
+}
+
+.site_head {
+    #background: #4ba2ac;
+    display: flex;
+    flex-flow: row;
+    height: 50px;
+    justify-content: center;
+    margin: 0px 0px 100px;
+    position: fixed;
+    -webkit-margin-after: 0px;
+    width: 100%;
 }
 
 .header {
@@ -19,6 +36,13 @@ body {
 
 .link {
     color: #4ba2ac;
+}
+
+.button {
+    font-size: 17px;
+    font-style: oblique;
+    height: 45px;
+    padding: 15px;
 }
 
 .my_photo {
