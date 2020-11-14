@@ -1,3 +1,9 @@
+.about_me {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
 body {
     margin: 0;
 }
@@ -57,6 +63,8 @@ body {
 
 .header {
     color: #4ba2ac;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 30;
 }
 
 hr {
@@ -68,7 +76,19 @@ hr {
 
 .info {
     color: #50c9ba;
+    font-size: 16px;
     margin-top: 0;
+    margin-bottom: 5px;
+}
+
+.in_about_me {
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+}
+
+.in_am_info {
+    width: 95%;
 }
 
 .link {
@@ -89,14 +109,15 @@ hr {
 }
 
 .my_info {
-    align-items: center;
+    align-items: flex-start;
     display: flex;
     flex-direction: column;
-    width: 100%;
+    width: 17%;
 }
 
 .my_photo {
     text-align: center;
+    margin-top: 10px;
     padding: 15px;
     height: 200px;
     width: 200px;
