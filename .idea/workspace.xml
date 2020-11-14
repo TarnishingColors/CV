@@ -19,12 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7895cbe9-4638-4968-bf1b-7ef5083c7c50" name="Default Changelist" comment="added header">
+    <list default="true" id="7895cbe9-4638-4968-bf1b-7ef5083c7c50" name="Default Changelist" comment="added favicon to github">
+      <change afterPath="$PROJECT_DIR$/html/img/chill.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/bio.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/bio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/certification.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/certification.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/contacts.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +69,7 @@
       <updated>1605173292930</updated>
       <workItem from="1605173293967" duration="554000" />
       <workItem from="1605174326703" duration="852000" />
-      <workItem from="1605175338652" duration="15539000" />
+      <workItem from="1605175338652" duration="34052000" />
     </task>
     <task id="LOCAL-00001" summary="moving index.html">
       <created>1605174872385</created>
@@ -108,7 +106,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605273104504</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="centered fields with content">
+      <created>1605276527966</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605276527966</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added favicon to github">
+      <created>1605276889571</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605276889571</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,7 +142,9 @@
     <MESSAGE value="added style to font and background" />
     <MESSAGE value="added favicon" />
     <MESSAGE value="added header" />
-    <option name="LAST_COMMIT_MESSAGE" value="added header" />
+    <MESSAGE value="centered fields with content" />
+    <MESSAGE value="added favicon to github" />
+    <option name="LAST_COMMIT_MESSAGE" value="added favicon to github" />
   </component>
   <component name="WindowStateProjectService">
     <state x="520" y="238" key="Github.ShareDialog" timestamp="1605175356069">
@@ -141,9 +155,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="458" y="45" key="Github.UntrackedFilesDialog/0.0.1280.680@0.0.1280.680" timestamp="1605174346905" />
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1605273107396">
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1605276911224">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1605273107396" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1605276911224" />
   </component>
 </project>
