@@ -28,12 +28,23 @@ body {
     /*box-shadow: 0 0 10px rgba(72, 34, 34, 0.5);*/
 }
 
+.contact {
+    margin-top: 25px;
+}
+
+.contact_row:hover {
+    color: white;
+}
+
 .contact-me {
     font-size: 30px;
     color: white;
 }
 
 .container-fluid {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
     padding: 0 15%;
 }
 
@@ -55,12 +66,9 @@ body {
 .footer {
     background: #50c9ba;
     bottom: 0;
-    #display: flex;
-    #flex-flow: row;
+    align-content: center;
+    flex-direction: row;
     height: 200px;
-    #justify-content: center;
-    #margin: 0 0 100px;
-    #-webkit-margin-after: 0;
     width: 100%;
 }
 
@@ -68,7 +76,6 @@ body {
     color: black;
     display: flex;
     justify-content: center;
-    margin: 0 20px 20px 0;
 }
 
 .header {
